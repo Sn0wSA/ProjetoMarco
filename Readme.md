@@ -9,31 +9,6 @@ Funcionalidades:
 - Ver todas as reservas existentes.
 - Remover reservas de forma eficiente após o check-out ou cancelamento.
 
-Requisitos:
-
-- JDK (Java Development Kit) instalado
-- IDE Java (opcional)
-
-Execução:
-
-1. Clone o repositório para sua máquina local:
-
-git clone https://github.com/seu-usuario/sistema-reservas-hotel.git
-
-2. Navegue até o diretório do projeto:
-
-cd sistema-reservas-hotel
-
-3. Compile os arquivos Java:
-
-javac *.java
-
-4. Execute o programa:
-
-java Hotel
-
-5. Siga as instruções no console para utilizar o sistema de reservas de hotel.
-
 Exemplo de Uso:
 
 - Inserir nova reserva:
